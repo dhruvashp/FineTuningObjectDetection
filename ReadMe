@@ -1,0 +1,5 @@
+The above repo corresponds to Fall 2021 course Advanced Computer Vision assignment to finetune Faster RCNN and RetinaNet on the Pascal VOC dataset.
+
+The finetuning is done via Facebook's (Meta's) Detectron2 library.
+
+NOTE - the colab notebook links are provided here, also the code has been written to run on a single GPU
